@@ -13,3 +13,5 @@ It shows how to use `tifffile` to load TIFF images, denoise/restore them, and sa
    year = {2023},
 }
 ```
+
+![Two images showing a noisy and denoised version of an atomic-resolution HAADF-STEM image.](demo.png "SrTiO3 example from a Tecnai Osiris.")
