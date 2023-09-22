@@ -3,6 +3,8 @@
 This notebook contains ideas for denoising workflows using the model and guidelines from the official repository (https://github.com/Ivanlh20/r_em).  
 It shows how to use `tifffile` to load TIFF images, denoise/restore them, and save them back to TIFF.  
 
+Paper: [https://arxiv.org/abs/2303.17025v1](https://arxiv.org/abs/2303.17025v1)
+
 **Please cite their work in your publications if it helps your research:**
 ```bibtex
 @article{Lobato2023,
