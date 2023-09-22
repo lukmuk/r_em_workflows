@@ -16,4 +16,5 @@ Paper: [https://arxiv.org/abs/2303.17025v1](https://arxiv.org/abs/2303.17025v1)
 }
 ```
 
+Example of SrTiO$_3$[100] (HAADF, FEI Tecnai Osiris, 200 keV):
 ![Two images showing a noisy and denoised version of an atomic-resolution HAADF-STEM image.](demo.png "SrTiO3 example from a Tecnai Osiris.")
