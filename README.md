@@ -3,16 +3,24 @@
 This notebook contains ideas for denoising workflows using the model and guidelines from the official repository (https://github.com/Ivanlh20/r_em).  
 It shows how to use `tifffile` to load TIFF images, denoise/restore them, and save them back to TIFF.  
 
-Paper: [https://arxiv.org/abs/2303.17025v1](https://arxiv.org/abs/2303.17025v1)
+Paper: [https://www.nature.com/articles/s41524-023-01188-0](https://www.nature.com/articles/s41524-023-01188-0)
 
 **Please cite their work in your publications if it helps your research:**
 ```bibtex
-@article{Lobato2023,
+@article{Lobato2024,
    author = {I. Lobato and T. Friedrich and S. Van Aert},
-   month = {3},
+   doi = {10.1038/s41524-023-01188-0},
+   issn = {2057-3960},
+   issue = {1},
+   journal = {npj Computational Materials 2024 10:1},
+   keywords = {Imaging techniques,Transmission electron microscopy},
+   month = {1},
+   pages = {1-19},
+   publisher = {Nature Publishing Group},
    title = {Deep convolutional neural networks to restore single-shot electron microscopy images},
-   url = {https://arxiv.org/abs/2303.17025v1},
-   year = {2023},
+   volume = {10},
+   url = {https://www.nature.com/articles/s41524-023-01188-0},
+   year = {2024},
 }
 ```
 
