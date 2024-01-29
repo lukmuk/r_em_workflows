@@ -2,6 +2,7 @@
 
 This notebook contains ideas for denoising workflows using the model and guidelines from the official repository (https://github.com/Ivanlh20/r_em).  
 It shows how to use `tifffile` to load TIFF images, denoise/restore them, and save them back to TIFF.  
+There is also an example showing how to use [RosettaSciIO](https://hyperspy.org/rosettasciio/#) to directly read `.emi/.ser` or `.dm3/.dm4` files to numpy array for subsequent denoising.  
 
 Paper: [https://www.nature.com/articles/s41524-023-01188-0](https://www.nature.com/articles/s41524-023-01188-0)
 
